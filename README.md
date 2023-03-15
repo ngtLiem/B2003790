@@ -55,7 +55,9 @@ Bạn có thể thực hiện lệnh sau trên cmd để download projects về 
 git clone https://github.com/ngtLiem/B2003790.git
 ```
 Ngoài ra bạn có thể chọn __projects__ sau đó chọn vào phần __code__ và thực hiện __download__ theo định dạng zip
-![Chọn *Code*]()
+
+![Chọn *Code*](https://user-images.githubusercontent.com/105724928/225242609-fcbc14bd-70f8-4acd-a34b-96157883bbd7.png)
+
 ![Chọn *Download Zip*]()
 <a name = "VI"></a>
 ## VI. TÀI LIỆU THAM KHẢO
