@@ -50,15 +50,17 @@
 
 <a name = "V"></a>
 ## V. INSTALL PROJECT
-Bạn có thể thực hiện lệnh sau trên cmd để download projects về máy tính cá nhân
+Bạn có thể thực hiện lệnh sau trên _**cmd**_ để download projects về máy tính cá nhân
 ``` python 3
 git clone https://github.com/ngtLiem/B2003790.git
 ```
-Ngoài ra bạn có thể chọn __projects__ sau đó chọn vào phần __code__ và thực hiện __download__ theo định dạng zip
+Ngoài ra, bạn có thể chọn __*Projects*__ sau đó chọn vào phần __*Code*__ và thực hiện __*Download Zip*__
 
+- Chọn *Code*
 ![Chọn *Code*](https://user-images.githubusercontent.com/105724928/225242609-fcbc14bd-70f8-4acd-a34b-96157883bbd7.png)
+- Chọn *Download Zip*
+![Chọn *Download Zip*](https://user-images.githubusercontent.com/105724928/225242621-52da0c11-8235-44d1-9e8d-d30587f4ded9.png)
 
-![Chọn *Download Zip*]()
 <a name = "VI"></a>
 ## VI. TÀI LIỆU THAM KHẢO
 ##### 1. [W3school](https://www.w3schools.com/php/)
