@@ -24,12 +24,12 @@
 <a name = "I"></a>
 ## I. THÔNG TIN THÀNH VIÊN
 
-|   STT   |   MSSV    |     Họ Tên                  |
+|  **STT** | **MSSV** |          **Họ Tên**         |
 | :------:|:---------:|:---------------------------:|
 |     1   | B2003790  | Nguyễn Thanh Liêm           |
-|     2   | B2003790  | Nguyễn Thanh Liêm           |
-|     3   | B2003790  | Nguyễn Thanh Liêm           |
-|     4   | B2003790  | Nguyễn Thanh Liêm           |
+|     2   | B2003809  | Nguyễn Phước Thọ            |
+|     3   | B2003768  | Nguyễn Đỗ Phúc Vinh         |
+|     4   | B2012055  | Nguyễn Quốc Vĩnh            |
 
 <a name = "II"></a>
 ## II. GIỚI THIỆU ĐỀ TÀI
@@ -47,6 +47,15 @@
 
 <a name = "IV"></a>
 ## IV. DEMO
+
+| Dashboard page | User profile page | Add product page  |
+| --- | --- | ---  |
+| ![Dashboard page](https://i.imgur.com/PcLFbIV.jpg)  | ![User profile page](https://i.imgur.com/u7nga5K.png) | ![Add product page](https://i.imgur.com/IFtP2e6.png)
+
+| Staff page | Product page | Login page  |
+| --- | --- | ---  |
+| ![Staff page](https://i.imgur.com/hwbxCCH.png) | ![Product page](https://i.imgur.com/PTzvlea.png)  | ![Login page](https://i.imgur.com/wDrUicZ.jpg)
+
 
 <a name = "V"></a>
 ## V. INSTALL PROJECT
