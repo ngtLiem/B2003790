@@ -50,7 +50,10 @@
 
 <a name = "V"></a>
 ## V. INSTALL PROJECT
+``` python 3
+git clone 
 
+```
 <a name = "VI"></a>
 ## VI. TÀI LIỆU THAM KHẢO
 ##### 1. [W3school](https://www.w3schools.com/php/)
